@@ -3,7 +3,7 @@
 export const contactInfos = [
     {
         title: "Where I Live",
-        address: "Wernigeroder Weg 7 ,30419 Germany",
+        address: "Hannover, Germany",
     },
     {
         title: "Call Me",
